@@ -11,7 +11,7 @@
     "publish": "electron-forge publish",
     "lint": "npx eslint --ext .ts,.tsx ."
   },
-  "keywords": ["XML", "P&D", "Aneel"],
+  "keywords": ["XML", "P&D", "Aneel", "R&D", "ped-aneel"],
   "author": {
     "name": "Alessandro Miranda",
     "email": "ad.lmiranda2018@gmail.com"
