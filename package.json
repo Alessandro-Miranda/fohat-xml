@@ -2,7 +2,7 @@
   "name": "fohat-xml",
   "productName": "fohat-xml",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "Simple tool to generate XML files used for loading P&D projects into the Aneel pipeline",
   "main": ".webpack/main",
   "scripts": {
     "start": "electron-forge start",
@@ -11,12 +11,12 @@
     "publish": "electron-forge publish",
     "lint": "npx eslint --ext .ts,.tsx ."
   },
-  "keywords": [],
+  "keywords": ["XML", "P&D", "Aneel"],
   "author": {
     "name": "Alessandro Miranda",
     "email": "ad.lmiranda2018@gmail.com"
   },
-  "license": "MIT",
+  "license": "GPL-3.0-or-later",
   "devDependencies": {
     "@babel/core": "^7.20.12",
     "@babel/preset-react": "^7.18.6",
