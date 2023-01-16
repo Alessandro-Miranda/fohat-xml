@@ -51,7 +51,14 @@ Fohat is the propelling force that turns the One into the Many, aggregating and 
 
 ## Technologies and Tools
 
-*Coming soon*
+- [Electron](https://www.electronjs.org/)
+- [Electron Forge](https://www.electronforge.io/)
+- [ESLint - Airbnb style](https://www.npmjs.com/package/eslint-config-airbnb)
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Material UI](https://mui.com/)
+- [Jest](https://jestjs.io/)
+- [Testing Library](https://testing-library.com/)
 
 ## License
 
