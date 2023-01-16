@@ -16,7 +16,8 @@
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "paths": {
-      "*": ["node_modules/*"]
+      "*": ["node_modules/*"],
+      "@Pages/*": ["src/pages/*"]
     }
   },
   "include": ["src/**/*", "*.config.ts", "*.plugins.ts"]
