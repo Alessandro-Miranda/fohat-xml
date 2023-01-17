@@ -15,7 +15,7 @@ Fohat is a GUI tool that allow us create by a simple way XML files used to loadi
 
 ## Contents
 
-- [Name context](#why-this-name)
+- [Name Context](#why-this-name)
 - [Featues](#features)
 - [Installation and Use](#installation-and-use)
 - [Contributing Guide](#contributing-guide)
